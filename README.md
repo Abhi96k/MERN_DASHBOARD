@@ -1,6 +1,6 @@
 # MERN Dashboard Project
 
-![Dashboard Screenshot](client/public/readme_assets/screenshot.png)
+
 
 This comprehensive dashboard project is built using the MERN (MongoDB, Express.js, React, Node.js) stack, providing a versatile interface for managing various aspects of data visualization, client interaction, and administrative functionalities. It offers light and dark mode themes for optimal user experience and is designed to be responsive across different devices.
 
