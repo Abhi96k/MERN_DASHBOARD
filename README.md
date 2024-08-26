@@ -262,3 +262,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ```
 
 ## License
+
+
+
+![image](https://github.com/user-attachments/assets/efc632b0-a451-4c75-bd7f-76c059bd084b)
+
